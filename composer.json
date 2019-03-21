@@ -7,7 +7,7 @@
             "email": "976520408@qq.com"
         }
     ],
-    "minimum-stability":"dev",
+    "minimum-stability": "dev",
     "require": {
         "php":">=5.6.0"
     },
